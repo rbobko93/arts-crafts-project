@@ -39,3 +39,12 @@ h2 {
 .paint h2 {
     background-color: skyblue;
 }
+
+.image-block {
+    display: flex;
+    align-items: center;
+}
+
+.image-block img {
+    margin-right: 20px;
+}
